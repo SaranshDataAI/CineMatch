@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-API_KEY = "2addbc2bf90cc62db27bf11d93d670f6"
+API_KEY = "Please Inster Your Tmdb Key Here"
 BASE_URL = "https://api.themoviedb.org/3"
 OUTPUT_FILE = "tmdb_dataset.csv"
 BACKUP_FILE = "tmdb_backup.csv"
