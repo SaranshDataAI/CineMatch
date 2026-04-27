@@ -6,7 +6,7 @@ import '../models/models.dart';
 class ApiService {
   final String _baseUrl = "https://ai-recommender-api-v2.onrender.com";
 
-  static const String _tmdbKey = '2addbc2bf90cc62db27bf11d93d670f6';
+  static const String _tmdbKey = 'please insert your TMDB key Here';
   static const String _tmdbBase = 'https://api.themoviedb.org/3';
   static const String _tmdbImg = 'https://image.tmdb.org/t/p/w185';
 
