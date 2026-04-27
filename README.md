@@ -1,4 +1,4 @@
-[README_AI_Recommendation_System.md](https://github.com/user-attachments/files/27114897/README_AI_Recommendation_System.md)
+
 # 🎬 AI Recommendation System
 
 An advanced AI-powered movie & TV show recommendation system built using modern Machine Learning and NLP techniques.
